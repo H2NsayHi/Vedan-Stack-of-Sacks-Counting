@@ -2,7 +2,7 @@
 ## Installation
 ```
 pip install ultralytics
-pip install cv2
+pip install opencv-python
 pip install numpy
 ```
 
