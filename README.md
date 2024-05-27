@@ -12,7 +12,7 @@ model = YOLO('best.pt')
 
 ## Prediction
 ```
-results = model(img)
+python Code/main.py -p PATH-TO-IMAGE
 ```
 
 ## Output
