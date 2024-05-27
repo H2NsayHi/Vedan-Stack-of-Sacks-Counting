@@ -14,7 +14,7 @@ def image_to_base64(image_path):
     return base64_string
 
 # Đường dẫn tới ảnh
-image_path = "input.img"
+image_path = "input.jpg"
 base64_string_ = image_to_base64(image_path)
 
-#print(len(base64_string))
+#print(len(base64_string_))
