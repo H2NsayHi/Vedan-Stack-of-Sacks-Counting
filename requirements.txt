@@ -1,4 +1,3 @@
 ultralytics
-base64
 numpy
 opencv-python
