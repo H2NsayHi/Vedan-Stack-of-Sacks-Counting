@@ -1,9 +1,7 @@
 # Vedan
 ## Installation
 ```
-pip install ultralytics
-pip install opencv-python
-pip install numpy
+pip install -r requirements.txt
 ```
 
 ## Validation
