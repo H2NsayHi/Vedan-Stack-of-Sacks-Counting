@@ -40,8 +40,9 @@ for result in results:
   xyxy = boxes.xyxy
   for x in xyxy:
     cv2.rectangle(img, (int(x[0]), int(x[1])), (int(x[2]), int(x[3])), (0,255,0))
-
+      
+# Convert to base64
 output = image_to_base64(img)
 
-# Out put result as base64 string
+# Output result as base64 string
 print(output)
